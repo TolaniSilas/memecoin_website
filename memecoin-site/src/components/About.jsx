@@ -39,7 +39,7 @@ const About = () => {
   return (
     <section
       id="about"
-      className="py-20 px-6 bg-gradient-to-b from-zinc-900 via-slate-800 to-zinc-900"
+      className="py-20 px-6 bg-zinc-950"
     >
       <div className="max-w-7xl mx-auto">
         <h2 className="text-5xl font-extrabold text-center mb-16 text-white">
