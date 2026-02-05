@@ -12,10 +12,10 @@ const Stats = () => {
   return (
     <section
       id="stats"
-      className="py-20 px-6 bg-zinc-950 relative"
+      className="py-20 px-6 bg-gradient-to-b from-zinc-900 via-slate-800 to-zinc-900 relative"
     >
       <div className="max-w-7xl mx-auto">
-        <h2 className="text-4xl font-extrabold text-center mb-12 text-white">
+        <h2 className="text-2xl sm:text-3xl font-extrabold text-center mb-12 text-white">
           Live Stats
         </h2>
 
